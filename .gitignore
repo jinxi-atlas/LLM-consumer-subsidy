@@ -1,0 +1,27 @@
+# Licensed data, household-level outputs, and survey answers stay local.
+**/data/
+**/outputs/
+**/results/
+*.csv
+*.tsv
+*.dta
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.sqlite
+*.db
+*.zip
+*.tar
+*.gz
+.env
+.env.*
+*.key
+*.pem
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
